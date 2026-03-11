@@ -47,8 +47,8 @@ A dynamic Live Currency converter platform. Features real-time conversion to ove
 
 Tech: EJS, Bootstrap/ Vanilla CSS, Node, REST APIs
 
-Demo: https://kickoffcorner.onrender.com
-Code: https://github.com/Dennismilli/capstoneProject5
+Demo: https://currencyconverterapp-kkis.onrender.com
+Code: https://github.com/Dennismilli/capstoneProject4
 
 ## 📫 Contact Me
 
